@@ -1,0 +1,740 @@
+Validating "IMG_1509.DNG"...
+
+Uses big-endian byte order
+Magic number = 42
+
+IFD 0: Offset = 18, Entries = 32
+
+NewSubFileType: Preview Image
+ImageWidth: 4032
+ImageLength: 3024
+BitsPerSample: 8 8 8
+Compression: JPEG
+PhotometricInterpretation: YCbCr
+Make: "Apple"
+Model: "iPhone 13 Pro"
+StripOffsets: Offset = 3075416
+Orientation: 6 - 0th row is right, 0th column is top
+SamplesPerPixel: 3
+RowsPerStrip: 3024
+StripByteCounts: Count = 7801464
+Software: "15.4.1"
+DateTime: 2022:05:03 11:13:03
+SubIFDs: IFD = 5390 3073750 3074594
+ExifIFD: 2810
+GPSInfo: 5114
+DNGVersion: 1.6.0.0
+DNGBackwardVersion: 1.3.0.0
+UniqueCameraModel: "iPhone14,2 back camera"
+ColorMatrix1:
+	   1.2152  -0.5765  -0.2346
+	  -0.4500   1.5123  -0.0422
+	  -0.0504   0.1732   0.6233
+ColorMatrix2:
+	   0.8994  -0.3349  -0.1228
+	  -0.4201   1.3086   0.0877
+	  -0.1105   0.2416   0.4554
+AnalogBalance: 2.3708 1.0000 1.9246
+AsShotNeutral: 1.0000 1.0000 1.0000
+BaselineExposure: +3.47
+BaselineSharpness: 1.50
+CalibrationIlluminant1: Standard light A
+CalibrationIlluminant2: D65
+NoiseReductionApplied: 1020054720/1073741824
+ProfileName: "Apple Embedded Color Profile"
+ProfileToneCurve: 514 entries
+	   Coord [0] = 0.000000
+	   Coord [1] = 0.000000
+	   Coord [2] = 0.003906
+	   Coord [3] = 0.000019
+	   Coord [4] = 0.007812
+	   Coord [5] = 0.000111
+	   Coord [6] = 0.011719
+	   Coord [7] = 0.000317
+	   Coord [8] = 0.015625
+	   Coord [9] = 0.000886
+	   Coord [10] = 0.019531
+	   Coord [11] = 0.002029
+	   Coord [12] = 0.023438
+	   Coord [13] = 0.003468
+	   Coord [14] = 0.027344
+	   Coord [15] = 0.005089
+	   Coord [16] = 0.031250
+	   Coord [17] = 0.006856
+	   Coord [18] = 0.035156
+	   Coord [19] = 0.008755
+	   Coord [20] = 0.039062
+	   Coord [21] = 0.010764
+	   Coord [22] = 0.042969
+	   Coord [23] = 0.012871
+	   Coord [24] = 0.046875
+	   Coord [25] = 0.015067
+	   Coord [26] = 0.050781
+	   Coord [27] = 0.017344
+	   Coord [28] = 0.054688
+	   Coord [29] = 0.019697
+	   Coord [30] = 0.058594
+	   Coord [31] = 0.022126
+	   Coord [32] = 0.062500
+	   Coord [33] = 0.024616
+	   Coord [34] = 0.066406
+	   Coord [35] = 0.027177
+	   Coord [36] = 0.070312
+	   Coord [37] = 0.029799
+	   Coord [38] = 0.074219
+	   Coord [39] = 0.032477
+	   Coord [40] = 0.078125
+	   Coord [41] = 0.035212
+	   Coord [42] = 0.082031
+	   Coord [43] = 0.037999
+	   Coord [44] = 0.085938
+	   Coord [45] = 0.040836
+	   Coord [46] = 0.089844
+	   Coord [47] = 0.043720
+	   Coord [48] = 0.093750
+	   Coord [49] = 0.046649
+	   Coord [50] = 0.097656
+	   Coord [51] = 0.049624
+	   Coord [52] = 0.101562
+	   Coord [53] = 0.052650
+	   Coord [54] = 0.105469
+	   Coord [55] = 0.055711
+	   Coord [56] = 0.109375
+	   Coord [57] = 0.058819
+	   Coord [58] = 0.113281
+	   Coord [59] = 0.061965
+	   Coord [60] = 0.117188
+	   Coord [61] = 0.065143
+	   Coord [62] = 0.121094
+	   Coord [63] = 0.068364
+	   Coord [64] = 0.125000
+	   Coord [65] = 0.071616
+	   Coord [66] = 0.128906
+	   Coord [67] = 0.074903
+	   Coord [68] = 0.132812
+	   Coord [69] = 0.078229
+	   Coord [70] = 0.136719
+	   Coord [71] = 0.081592
+	   Coord [72] = 0.140625
+	   Coord [73] = 0.084979
+	   Coord [74] = 0.144531
+	   Coord [75] = 0.088405
+	   Coord [76] = 0.148438
+	   Coord [77] = 0.091859
+	   Coord [78] = 0.152344
+	   Coord [79] = 0.095346
+	   Coord [80] = 0.156250
+	   Coord [81] = 0.098855
+	   Coord [82] = 0.160156
+	   Coord [83] = 0.102401
+	   Coord [84] = 0.164062
+	   Coord [85] = 0.105964
+	   Coord [86] = 0.167969
+	   Coord [87] = 0.109570
+	   Coord [88] = 0.171875
+	   Coord [89] = 0.113188
+	   Coord [90] = 0.175781
+	   Coord [91] = 0.116845
+	   Coord [92] = 0.179688
+	   Coord [93] = 0.120520
+	   Coord [94] = 0.183594
+	   Coord [95] = 0.124220
+	   Coord [96] = 0.187500
+	   Coord [97] = 0.127954
+	   Coord [98] = 0.191406
+	   Coord [99] = 0.131699
+	 ... 414 more entries
+NextIFD = 0
+
+SubIFD 1: Offset = 5390, Entries = 18
+
+NewSubFileType: Main Image
+ImageWidth: 4032
+ImageLength: 3024
+BitsPerSample: 12 12 12
+Compression: JPEG
+PhotometricInterpretation: LinearRaw
+SamplesPerPixel: 3
+PlanarConfiguration: 1
+TileWidth: 504
+TileLength: 378
+TileOffsets: 64 entries
+	   Offset [0] = 11023384
+	   Offset [1] = 11522202
+	   Offset [2] = 12057168
+	   Offset [3] = 12548857
+	   Offset [4] = 13048154
+	   Offset [5] = 13596297
+	   Offset [6] = 14133963
+	   Offset [7] = 14630106
+	   Offset [8] = 15123315
+	   Offset [9] = 15635498
+	   Offset [10] = 16174619
+	   Offset [11] = 16706144
+	   Offset [12] = 17263462
+	   Offset [13] = 17830667
+	   Offset [14] = 18375098
+	   Offset [15] = 18873158
+	   Offset [16] = 19399146
+	   Offset [17] = 19932588
+	   Offset [18] = 20473343
+	   Offset [19] = 21058496
+	   Offset [20] = 21574537
+	   Offset [21] = 21980774
+	   Offset [22] = 22368036
+	   Offset [23] = 22886811
+	   Offset [24] = 23424892
+	   Offset [25] = 23991234
+	   Offset [26] = 24549831
+	   Offset [27] = 25129684
+	   Offset [28] = 25690129
+	   Offset [29] = 26205571
+	   Offset [30] = 26736094
+	   Offset [31] = 27293097
+	   Offset [32] = 27841829
+	   Offset [33] = 28466896
+	   Offset [34] = 29022132
+	   Offset [35] = 29535423
+	   Offset [36] = 30025322
+	   Offset [37] = 30583558
+	   Offset [38] = 31178530
+	   Offset [39] = 31740783
+	   Offset [40] = 32297557
+	   Offset [41] = 32883929
+	   Offset [42] = 33403556
+	   Offset [43] = 33916849
+	   Offset [44] = 34447303
+	   Offset [45] = 35020928
+	   Offset [46] = 35609998
+	   Offset [47] = 36174196
+	   Offset [48] = 36736687
+	   Offset [49] = 37292811
+	   Offset [50] = 37815666
+	   Offset [51] = 38380011
+	   Offset [52] = 39023490
+	   Offset [53] = 39707251
+	   Offset [54] = 40312919
+	   Offset [55] = 40863466
+	   Offset [56] = 41402929
+	   Offset [57] = 41976196
+	   Offset [58] = 42566627
+	   Offset [59] = 43131994
+	   Offset [60] = 43778983
+	   Offset [61] = 44433793
+	   Offset [62] = 45027592
+	   Offset [63] = 45583112
+TileByteCounts: 64 entries
+	   Count [0] = 498818
+	   Count [1] = 534966
+	   Count [2] = 491689
+	   Count [3] = 499297
+	   Count [4] = 548143
+	   Count [5] = 537666
+	   Count [6] = 496143
+	   Count [7] = 493209
+	   Count [8] = 512183
+	   Count [9] = 539121
+	   Count [10] = 531525
+	   Count [11] = 557318
+	   Count [12] = 567205
+	   Count [13] = 544431
+	   Count [14] = 498060
+	   Count [15] = 525988
+	   Count [16] = 533442
+	   Count [17] = 540755
+	   Count [18] = 585153
+	   Count [19] = 516041
+	   Count [20] = 406237
+	   Count [21] = 387262
+	   Count [22] = 518775
+	   Count [23] = 538081
+	   Count [24] = 566342
+	   Count [25] = 558597
+	   Count [26] = 579853
+	   Count [27] = 560445
+	   Count [28] = 515442
+	   Count [29] = 530523
+	   Count [30] = 557003
+	   Count [31] = 548732
+	   Count [32] = 625067
+	   Count [33] = 555236
+	   Count [34] = 513291
+	   Count [35] = 489899
+	   Count [36] = 558236
+	   Count [37] = 594972
+	   Count [38] = 562253
+	   Count [39] = 556774
+	   Count [40] = 586372
+	   Count [41] = 519627
+	   Count [42] = 513293
+	   Count [43] = 530454
+	   Count [44] = 573625
+	   Count [45] = 589070
+	   Count [46] = 564198
+	   Count [47] = 562491
+	   Count [48] = 556124
+	   Count [49] = 522855
+	   Count [50] = 564345
+	   Count [51] = 643479
+	   Count [52] = 683761
+	   Count [53] = 605668
+	   Count [54] = 550547
+	   Count [55] = 539463
+	   Count [56] = 573267
+	   Count [57] = 590431
+	   Count [58] = 565367
+	   Count [59] = 646989
+	   Count [60] = 654810
+	   Count [61] = 593799
+	   Count [62] = 555520
+	   Count [63] = 511848
+LinearizationTable: 4096 entries
+	   Table [0] = 0
+	   Table [1] = 2
+	   Table [2] = 4
+	   Table [3] = 6
+	   Table [4] = 8
+	   Table [5] = 10
+	   Table [6] = 12
+	   Table [7] = 14
+	   Table [8] = 16
+	   Table [9] = 18
+	   Table [10] = 20
+	   Table [11] = 22
+	   Table [12] = 24
+	   Table [13] = 26
+	   Table [14] = 29
+	   Table [15] = 31
+	   Table [16] = 33
+	   Table [17] = 35
+	   Table [18] = 37
+	   Table [19] = 39
+	   Table [20] = 41
+	   Table [21] = 43
+	   Table [22] = 45
+	   Table [23] = 47
+	   Table [24] = 49
+	   Table [25] = 51
+	   Table [26] = 53
+	   Table [27] = 55
+	   Table [28] = 57
+	   Table [29] = 59
+	   Table [30] = 61
+	   Table [31] = 63
+	   Table [32] = 65
+	   Table [33] = 67
+	   Table [34] = 69
+	   Table [35] = 71
+	   Table [36] = 73
+	   Table [37] = 75
+	   Table [38] = 77
+	   Table [39] = 80
+	   Table [40] = 82
+	   Table [41] = 84
+	   Table [42] = 86
+	   Table [43] = 88
+	   Table [44] = 90
+	   Table [45] = 92
+	   Table [46] = 94
+	   Table [47] = 96
+	   Table [48] = 98
+	   Table [49] = 100
+	   Table [50] = 102
+	   Table [51] = 104
+	   Table [52] = 106
+	   Table [53] = 108
+	   Table [54] = 110
+	   Table [55] = 112
+	   Table [56] = 114
+	   Table [57] = 116
+	   Table [58] = 118
+	   Table [59] = 120
+	   Table [60] = 122
+	   Table [61] = 124
+	   Table [62] = 127
+	   Table [63] = 129
+	   Table [64] = 131
+	   Table [65] = 133
+	   Table [66] = 135
+	   Table [67] = 137
+	   Table [68] = 139
+	   Table [69] = 141
+	   Table [70] = 143
+	   Table [71] = 145
+	   Table [72] = 147
+	   Table [73] = 149
+	   Table [74] = 151
+	   Table [75] = 153
+	   Table [76] = 155
+	   Table [77] = 157
+	   Table [78] = 159
+	   Table [79] = 161
+	   Table [80] = 163
+	   Table [81] = 165
+	   Table [82] = 168
+	   Table [83] = 170
+	   Table [84] = 172
+	   Table [85] = 174
+	   Table [86] = 176
+	   Table [87] = 178
+	   Table [88] = 180
+	   Table [89] = 182
+	   Table [90] = 184
+	   Table [91] = 186
+	   Table [92] = 188
+	   Table [93] = 190
+	   Table [94] = 192
+	   Table [95] = 194
+	   Table [96] = 196
+	   Table [97] = 198
+	   Table [98] = 200
+	   Table [99] = 203
+	 ... 3996 more entries
+BlackLevel: 0.00 0.00 0.00
+WhiteLevel: 65535 65535 65535
+NoiseProfile:
+  Planes: 1
+  Noise function for plane 0: scale = 0.00003000000000000000, offset = 0.00000003000000000000
+*DefaultBlackRender: Long = 1
+GainTableMap:
+  Points: v=48, h=62
+  Spacing: v=0.020833, h=0.016369
+  Origin: v=0.010251, h=0.000744
+  NumTablePoints: 257
+  Weights: 0.0192, 0.0646, 0.0065, 0.0000, 0.0903
+	Map [  0] [  0] [0] = 1.4924
+	Map [  0] [  0] [1] = 1.4924
+	Map [  0] [  0] [2] = 1.4924
+	Map [  0] [  0] [3] = 1.4924
+	Map [  0] [  0] [4] = 1.4924
+	Map [  0] [  0] [5] = 1.5166
+	Map [  0] [  0] [6] = 1.5328
+	Map [  0] [  0] [7] = 1.5673
+	Map [  0] [  0] [8] = 1.5731
+	Map [  0] [  0] [9] = 1.5596
+	Map [  0] [  0] [10] = 1.5327
+	Map [  0] [  0] [11] = 1.5254
+	Map [  0] [  0] [12] = 1.5193
+	Map [  0] [  0] [13] = 1.4769
+	Map [  0] [  0] [14] = 1.4521
+	Map [  0] [  0] [15] = 1.4198
+	Map [  0] [  0] [16] = 1.4016
+	Map [  0] [  0] [17] = 1.3761
+	Map [  0] [  0] [18] = 1.3445
+	Map [  0] [  0] [19] = 1.3247
+	Map [  0] [  0] [20] = 1.3069
+	Map [  0] [  0] [21] = 1.2753
+	Map [  0] [  0] [22] = 1.2394
+	Map [  0] [  0] [23] = 1.2136
+	Map [  0] [  0] [24] = 1.1899
+	Map [  0] [  0] [25] = 1.1552
+	Map [  0] [  0] [26] = 1.1294
+	Map [  0] [  0] [27] = 1.1055
+	Map [  0] [  0] [28] = 1.0775
+	Map [  0] [  0] [29] = 1.0570
+	Map [  0] [  0] [30] = 1.0326
+	Map [  0] [  0] [31] = 1.0097
+	Map [  0] [  0] [32] = 0.9882
+	Map [  0] [  0] [33] = 0.9680
+	Map [  0] [  0] [34] = 0.9443
+	Map [  0] [  0] [35] = 0.9266
+	Map [  0] [  0] [36] = 0.9053
+	Map [  0] [  0] [37] = 0.8853
+	Map [  0] [  0] [38] = 0.8664
+	Map [  0] [  0] [39] = 0.8527
+	Map [  0] [  0] [40] = 0.8357
+	Map [  0] [  0] [41] = 0.8195
+	Map [  0] [  0] [42] = 0.8041
+	Map [  0] [  0] [43] = 0.7894
+	Map [  0] [  0] [44] = 0.7715
+	Map [  0] [  0] [45] = 0.7583
+	Map [  0] [  0] [46] = 0.7457
+	Map [  0] [  0] [47] = 0.7336
+	Map [  0] [  0] [48] = 0.7221
+	Map [  0] [  0] [49] = 0.7074
+	Map [  0] [  0] [50] = 0.6969
+	Map [  0] [  0] [51] = 0.6869
+	Map [  0] [  0] [52] = 0.6737
+	Map [  0] [  0] [53] = 0.6645
+	Map [  0] [  0] [54] = 0.6557
+	Map [  0] [  0] [55] = 0.6438
+	Map [  0] [  0] [56] = 0.6358
+	Map [  0] [  0] [57] = 0.6246
+	Map [  0] [  0] [58] = 0.6172
+	Map [  0] [  0] [59] = 0.6101
+	Map [  0] [  0] [60] = 0.5999
+	Map [  0] [  0] [61] = 0.5933
+	Map [  0] [  0] [62] = 0.5838
+	Map [  0] [  0] [63] = 0.5777
+	Map [  0] [  0] [64] = 0.5687
+	Map [  0] [  0] [65] = 0.5631
+	Map [  0] [  0] [66] = 0.5545
+	Map [  0] [  0] [67] = 0.5494
+	Map [  0] [  0] [68] = 0.5413
+	Map [  0] [  0] [69] = 0.5365
+	Map [  0] [  0] [70] = 0.5288
+	Map [  0] [  0] [71] = 0.5244
+	Map [  0] [  0] [72] = 0.5171
+	Map [  0] [  0] [73] = 0.5100
+	Map [  0] [  0] [74] = 0.5060
+	Map [  0] [  0] [75] = 0.4993
+	Map [  0] [  0] [76] = 0.4956
+	Map [  0] [  0] [77] = 0.4892
+	Map [  0] [  0] [78] = 0.4829
+	Map [  0] [  0] [79] = 0.4796
+	Map [  0] [  0] [80] = 0.4736
+	Map [  0] [  0] [81] = 0.4706
+	Map [  0] [  0] [82] = 0.4649
+	Map [  0] [  0] [83] = 0.4593
+	Map [  0] [  0] [84] = 0.4565
+	Map [  0] [  0] [85] = 0.4512
+	Map [  0] [  0] [86] = 0.4459
+	Map [  0] [  0] [87] = 0.4435
+	Map [  0] [  0] [88] = 0.4385
+	Map [  0] [  0] [89] = 0.4362
+	Map [  0] [  0] [90] = 0.4314
+	Map [  0] [  0] [91] = 0.4266
+	Map [  0] [  0] [92] = 0.4220
+	Map [  0] [  0] [93] = 0.4201
+	Map [  0] [  0] [94] = 0.4156
+	Map [  0] [  0] [95] = 0.4112
+	Map [  0] [  0] [96] = 0.4069
+	Map [  0] [  0] [97] = 0.4053
+	Map [  0] [  0] [98] = 0.4012
+	Map [  0] [  0] [99] = 0.3971
+	 ... 764732 map entries skipped
+ProfileGainTableMap (digest): A2B9B16427E36C793269A92B3A5951D0
+NextIFD = 0
+
+SubIFD 2: Offset = 3073750, Entries = 12
+
+NewSubFileType: Semantic Mask
+ImageWidth: 2016
+ImageLength: 1512
+BitsPerSample: 8
+Compression: Lossy JPEG
+PhotometricInterpretation: 52527
+StripOffsets: Offset = 10876880
+SamplesPerPixel: 1
+RowsPerStrip: 1512
+StripByteCounts: Count = 95155
+SemanticMaskXMP: Count = 640, Offset = 3073900
+XMP: <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+XMP:    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+XMP:       <rdf:Description rdf:about=""
+XMP:             xmlns:portraitEffectsMatte="http://ns.apple.com/portraitEffectsMatte/1.0/"
+XMP:             xmlns:apdi="http://ns.apple.com/pixeldatainfo/1.0/">
+XMP:          <portraitEffectsMatte:PortraitEffectsMatteVersion>65537</portraitEffectsMatte:PortraitEffectsMatteVersion>
+XMP:          <apdi:AuxiliaryImageSubType>portraiteffectsmatte</apdi:AuxiliaryImageSubType>
+XMP:          <apdi:AuxiliaryImageType>depth</apdi:AuxiliaryImageType>
+XMP:       </rdf:Description>
+XMP:    </rdf:RDF>
+XMP: </x:xmpmeta>
+SemanticName: "urn:com:apple:photo:2018:aux:portraiteffectsmatte"
+NextIFD = 0
+
+SubIFD 3: Offset = 3074594, Entries = 12
+
+NewSubFileType: Semantic Mask
+ImageWidth: 2016
+ImageLength: 1512
+BitsPerSample: 8
+Compression: Lossy JPEG
+PhotometricInterpretation: 52527
+StripOffsets: Offset = 10972036
+SamplesPerPixel: 1
+RowsPerStrip: 1512
+StripByteCounts: Count = 51346
+SemanticMaskXMP: Count = 624, Offset = 3074744
+XMP: <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+XMP:    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+XMP:       <rdf:Description rdf:about=""
+XMP:             xmlns:semanticSegmentationMatte="http://ns.apple.com/semanticSegmentationMatte/1.0/"
+XMP:             xmlns:apdi="http://ns.apple.com/pixeldatainfo/1.0/">
+XMP:          <semanticSegmentationMatte:SemanticSegmentationMatteVersion>65536</semanticSegmentationMatte:SemanticSegmentationM
+XMP: atteVersion>
+XMP:          <apdi:AuxiliaryImageType>urn:com:apple:photo:2019:aux:semanticskinmatte</apdi:AuxiliaryImageType>
+XMP:       </rdf:Description>
+XMP:    </rdf:RDF>
+XMP: </x:xmpmeta>
+SemanticName: "urn:com:apple:photo:2019:aux:semanticskinmatte"
+NextIFD = 0
+
+Exif IFD: Offset = 2810, Entries = 32
+
+ExposureTime: 1/333 sec
+FNumber: f/1.50
+ExposureProgram: Program Normal
+ISOSpeedRatings: 50
+ExifVersion: 2.32
+DateTimeOriginal: 2022:05:03 11:13:03
+DateTimeDigitized: 2022:05:03 11:13:03
+OffsetTime: "+08:00"
+OffsetTimeOriginal: "+08:00"
+OffsetTimeDigitized: "+08:00"
+ShutterSpeedValue: 1/333 sec
+ApertureValue: f/1.50
+BrightnessValue: 6.42
+ExposureBiasValue: 0.00
+MeteringMode: Pattern
+Flash: 16
+	Flash did not fire
+	Compulsory flash suppression
+FocalLength: 5.7 mm
+SubjectArea: 2009 1506 2208 1327
+MakerNote: Count = 1698, Offset = 3328
+	 41 70 70 6c 65 20 69 4f 53 00 00 01 4d 4d 00 34 	Apple iOS...MM.4
+	 00 01 00 09 00 00 00 01 00 00 00 0e 00 02 00 07 	................
+	 00 00 02 2e 00 00 02 84 00 03 00 07 00 00 00 68 	...............h
+	 00 00 04 b2 00 04 00 09 00 00 00 01 00 00 00 00 	................
+	 00 05 00 09 00 00 00 01 00 00 00 ae 00 06 00 09 	................
+	 00 00 00 01 00 00 00 b8 00 07 00 09 00 00 00 01 	................
+	 00 00 00 01 00 08 00 0a 00 00 00 03 00 00 05 1a 	................
+	 00 0c 00 0a 00 00 00 02 00 00 05 32 00 0d 00 09 	...........2....
+	 00 00 00 01 00 00 00 1a 00 0e 00 09 00 00 00 01 	................
+	 00 00 00 04 00 10 00 09 00 00 00 01 00 00 00 01 	................
+	 00 14 00 09 00 00 00 01 00 00 00 0a 00 17 00 09 	................
+	 00 00 00 01 42 50 21 00 00 19 00 09 00 00 00 01 	....BP!.........
+	 00 01 00 02 00 1a 00 02 00 00 00 06 00 00 05 42 	...............B
+	 00 1f 00 09 00 00 00 01 00 00 00 00 00 20 00 02 	............. ..
+	 00 00 00 25 00 00 05 48 00 21 00 0a 00 00 00 01 	...%...H.!......
+	 00 00 05 6e 00 23 00 09 00 00 00 02 00 00 05 76 	...n.#.........v
+	 00 25 00 09 00 00 00 01 00 00 00 86 00 26 00 09 	.%...........&..
+	 00 00 00 01 00 00 00 03 00 27 00 0a 00 00 00 01 	.........'......
+	 00 00 05 7e 00 28 00 09 00 00 00 01 00 00 00 02 	...~.(..........
+	 00 2b 00 02 00 00 00 25 00 00 05 86 00 2d 00 09 	.+.....%.....-..
+	 00 00 00 01 00 00 14 1f 00 2e 00 09 00 00 00 01 	................
+	 00 00 00 01 00 2f 00 09 00 00 00 01 00 00 00 3a 	...../.........:
+	 00 30 00 0a 00 00 00 01 00 00 05 ac 00 33 00 09 	.0...........3..
+	 00 00 00 01 00 00 10 00 00 34 00 09 00 00 00 01 	.........4......
+	 00 00 00 04 00 35 00 09 00 00 00 01 00 00 00 03 	.....5..........
+	 00 36 00 09 00 00 00 01 00 00 13 29 00 37 00 09 	.6.........).7..
+	 00 00 00 01 00 00 00 04 00 38 00 09 00 00 00 01 	.........8......
+	 00 00 00 e2 00 39 00 09 00 00 00 01 00 00 00 00 	.....9..........
+	 00 3a 00 09 00 00 00 01 00 00 00 00 00 3b 00 09 	.:...........;..
+	 00 00 00 01 00 00 00 00 00 3c 00 09 00 00 00 01 	.........<......
+	 00 00 00 04 00 3d 00 09 00 00 00 01 00 00 00 0e 	.....=..........
+	 00 3e 00 07 00 00 00 50 00 00 05 b4 00 3f 00 09 	.>.....P.....?..
+	 00 00 00 01 00 00 00 00 00 40 00 07 00 00 00 4a 	.........@.....J
+	 00 00 06 04 00 41 00 07 00 00 00 2a 00 00 06 4e 	.....A.....*...N
+	 00 42 00 07 00 00 00 2a 00 00 06 78 00 43 00 09 	.B.....*...x.C..
+	 00 00 00 01 00 00 00 00 00 44 00 09 00 00 00 01 	.........D......
+	 00 00 00 00 00 45 00 09 00 00 00 01 00 00 00 00 	.....E..........
+	 00 46 00 09 00 00 00 01 00 00 00 00 00 48 00 09 	.F...........H..
+	 00 00 00 01 00 00 00 00 00 49 00 09 00 00 00 01 	.........I......
+	 00 00 00 00 00 4a 00 09 00 00 00 01 00 00 00 02 	.....J..........
+	 00 00 00 00 62 70 6c 69 73 74 30 30 4f 11 02 00 	....bplist00O...
+	 49 00 3e 00 6c 00 47 00 3e 00 4a 00 39 00 57 00 	I.>.l.G.>.J.9.W.
+	 96 01 93 03 9a 00 7b 00 57 00 55 00 57 00 d5 00 	......{.W.U.W...
+	 4c 00 64 00 67 00 52 00 41 00 4e 00 5e 00 52 00 	L.d.g.R.A.N.^.R.
+	 93 00 33 01 8e 00 71 00 67 00 61 00 93 00 ef 00 	..3...q.g.a.....
+	 3d 00 4d 00 52 00 41 00 51 00 49 00 9b 00 bf 00 	=.M.R.A.Q.I.....
+	 96 01 43 02 8a 00 5f 00 60 00 7c 00 b9 00 ae 00 	..C..._.`.|.....
+	 3d 00 7c 00 5b 00 5e 00 61 00 74 00 f5 00 cf 01 	=.|.[.^.a.t.....
+	 01 02 c5 01 63 00 52 00 38 00 79 00 83 00 ae 00 	....c.R.8.y.....
+	 4d 00 66 00 4b 00 47 00 57 00 d7 00 c3 00 b2 00 	M.f.K.G.W.......
+	 35 00 2a 00 09 00 16 00 68 00 7f 00 a8 00 c3 00 	5.*.....h.......
+	 4b 00 87 00 67 00 4a 00 5c 00 a5 00 3d 00 3e 00 	K...g.J.\...=.>.
+	 3c 00 32 00 0f 00 36 00 3c 00 4b 00 bb 00 ec 00 	<.2...6.<.K.....
+	 52 00 52 00 6d 00 67 00 81 00 db 00 ca 00 a7 00 	R.R.m.g.........
+	 42 00 46 00 12 00 22 00 68 00 c5 00 da 00 e0 00 	B.F...".h.......
+	 84 00 6a 00 81 00 67 00 59 00 af 00 dc 00 c5 00 	..j...g.Y.......
+	 bd 00 92 01 5b 00 6c 00 ae 00 f8 00 ea 00 de 00 	....[.l.........
+	 86 00 85 00 9b 00 44 00 44 00 7a 00 6a 00 71 00 	......D.D.z.j.q.
+	 83 00 06 02 39 01 1b 01 08 01 12 01 f2 00 e7 00 	....9...........
+	 d7 00 8a 00 6b 00 65 00 43 00 61 00 72 00 7f 00 	....k.e.C.a.r...
+	 d0 00 fd 01 79 01 39 01 33 01 1d 01 00 01 e9 00 	....y.9.3.......
+	 d7 00 a8 00 48 00 5b 00 36 00 39 00 49 00 6f 00 	....H.[.6.9.I.o.
+	 f0 00 89 02 cb 01 81 01 69 01 2f 01 1d 01 fc 00 	........i./.....
+	 9f 00 55 00 4f 00 34 00 3e 00 57 00 6b 00 bb 00 	..U.O.4.>.W.k...
+	 4f 00 5a 00 ca 00 98 01 a5 01 4c 01 2b 01 10 01 	O.Z.......L.+...
+	 4a 00 4b 00 48 00 35 00 4d 00 4c 00 ff 00 6b 01 	J.K.H.5.M.L...k.
+	 fb 00 0e 02 7b 02 02 02 b5 01 68 01 43 01 22 01 	....{.....h.C.".
+	 47 00 7f 00 50 00 34 00 54 00 4e 01 43 01 14 01 	G...P.4.T.N.C...
+	 f1 01 87 02 b0 02 8a 02 cd 02 29 02 92 01 26 01 	..........)...&.
+	 50 00 58 00 38 00 38 00 73 00 1a 01 2c 01 43 01 	P.X.8.8.s...,.C.
+	 27 02 95 02 53 02 58 01 1e 01 58 01 32 02 b4 01 	'...S.X...X.2...
+	 6d 00 6c 00 4e 00 50 00 4d 00 ee 00 30 01 b5 01 	m.l.N.P.M...0...
+	 44 02 c6 02 df 01 61 01 d4 00 c2 00 ba 00 ac 00 	D.....a.........
+	 00 08 00 00 00 00 00 00 02 01 00 00 00 00 00 00 	................
+	 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 	................
+	 02 0c 62 70 6c 69 73 74 30 30 d4 01 02 03 04 05 	..bplist00......
+	 06 07 08 55 66 6c 61 67 73 55 76 61 6c 75 65 59 	...UflagsUvalueY
+	 74 69 6d 65 73 63 61 6c 65 55 65 70 6f 63 68 10 	timescaleUepoch.
+	 01 13 00 00 f7 7c 40 22 75 28 12 3b 9a ca 00 10 	.....|@"u(.;....
+	 00 08 11 17 1d 27 2d 2f 38 3d 00 00 00 00 00 00 	.....'-/8=......
+	 01 01 00 00 00 00 00 00 00 09 00 00 00 00 00 00 	................
+	 00 00 00 00 00 00 00 00 00 3f 00 00 02 48 00 01 	.........?...H..
+	 85 bb ff ff bb a0 00 00 46 15 ff ff a7 66 00 02 	........F....f..
+	 7e 99 00 00 00 a5 00 00 01 00 00 00 00 25 00 00 	~............%..
+	 00 40 71 39 30 30 6e 00 36 35 37 36 30 46 44 32 	.@q900n.65760FD2
+	 2d 45 45 33 31 2d 34 38 30 45 2d 42 34 42 44 2d 	-EE31-480E-B4BD-
+	 46 34 39 42 43 44 36 39 31 32 36 35 00 00 00 01 	F49BCD691265....
+	 7b 7e 00 01 31 95 00 00 01 50 10 00 00 1f 00 03 	{~..1....P......
+	 35 91 00 00 10 00 42 33 41 35 32 33 34 42 2d 43 	5.....B3A5234B-C
+	 35 36 31 2d 34 45 34 31 2d 41 44 33 35 2d 36 41 	561-4E41-AD35-6A
+	 37 42 37 37 41 38 30 39 38 34 00 00 00 00 05 c5 	7B77A80984......
+	 00 02 79 df 62 70 6c 69 73 74 30 30 4f 10 24 00 	..y.bplist00O.$.
+	 20 99 3f 00 00 ac bd 00 80 e5 bd 00 80 24 be 00 	 .?..........$..
+	 50 ac 3f 00 00 3e be 00 00 46 3d 00 d0 07 bf 00 	P.?..>...F=.....
+	 b0 bd 3f 08 00 00 00 00 00 00 01 01 00 00 00 00 	..?.............
+	 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 	................
+	 00 00 00 2f 62 70 6c 69 73 74 30 30 d4 01 02 03 	.../bplist00....
+	 04 05 06 06 07 51 33 51 31 51 32 51 30 10 00 22 	.....Q3Q1Q2Q0.."
+	 00 00 00 00 10 01 08 11 13 15 17 19 1b 20 00 00 	............. ..
+	 00 00 00 00 01 01 00 00 00 00 00 00 00 08 00 00 	................
+	 ... 98 more bytes
+SubsecTimeOriginal: "079"
+SubsecTimeDigitized: "079"
+PixelXDimension: 4032
+PixelYDimension: 3024
+SensingMethodExif: OneChipColorArea
+SceneType: A directly photographed image
+ExposureMode: Auto exposure
+WhiteBalance: Auto white balance
+FocalLengthIn35mmFilm: 26 mm
+LensSpecificationExif: 1.6-9.0 mm f/1.5-2.8
+LensMakeExif: "Apple"
+LensModelExif: "iPhone 13 Pro back triple camera 5.7mm f/1.5"
+*Tag42080: Short = 2
+NextIFD = 0
+
+GPS IFD: Offset = 5114, Entries = 14
+
+GPSLatitudeRef: "N"
+GPSLatitude: 22.0000 37.0000 27.5600
+GPSLongitudeRef: "E"
+GPSLongitude: 114.0000 8.0000 11.3400
+GPSAltitudeRef: Sea level
+GPSAltitude: 66.6380
+GPSSpeedRef: "K"
+GPSSpeed: 0.6200
+GPSImgDirectionRef: "T"
+GPSImgDirection: 84.8389
+GPSDestBearingRef: "T"
+GPSDestBearing: 84.8389
+GPSDateStamp: "2022:05:03"
+GPSHPositioningError: 21.7678
+NextIFD = 0
+
+fMainIndex 1, fMaskIndex -1, fDepthIndex -1, fEnhancedIndex -1
+width 4032, height 3024
+is baseline jpeg: 1, can read: 1
+samples: 3, bits: 8, max_val: 255, sample_size: 1
+width 4032, height 3024
+is baseline jpeg: 0, can read: 1
+width 2016, height 1512
+is baseline jpeg: 1, can read: 0
+width 2016, height 1512
+is baseline jpeg: 1, can read: 0
+raw width 4032, height 3024, pixel size 2, planes: 3, range: 65535
+has SemanticMasks 2
+urn:com:apple:photo:2018:aux:portraiteffectsmatte
+top 0, bottom 1512, left 0, right 2016
+pixel size = 1, width 2016, height 1512, planes 1
+pixel type = 1(tiff ttByte == 1), range 255
+urn:com:apple:photo:2019:aux:semanticskinmatte
+top 0, bottom 1512, left 0, right 2016
+pixel size = 1, width 2016, height 1512, planes 1
+pixel type = 1(tiff ttByte == 1), range 255
+Validation complete
